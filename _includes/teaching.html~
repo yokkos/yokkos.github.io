@@ -1,0 +1,14 @@
+    <!-- Teaching Section -->
+    <section id="teaching" class="content-section text-center">
+        <div class="vega-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Classes at Vega Vitality and Viking Sports</h2>
+                    <p>You can find my class schedules below at Vega Vitality or Viking Sports.</p>
+                    <a href="http://vegavitality.com/classes/#!" class="btn btn-default btn-lg">Visit Vega Vitality Page</a>
+
+		    <a href="http://www.vikingcamps.com/pages/activity-center-yoga" class="btn btn-default btn-lg">Visit Viking Sports Page</a>
+	    </div>
+            </div>
+        </div>
+    </section>
