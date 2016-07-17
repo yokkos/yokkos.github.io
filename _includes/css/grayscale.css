@@ -257,7 +257,7 @@ a:focus {
     height: 100%;
     padding: 100px 0;
     color: #fff;
-    background: url(/img/vega-bg.jpg) no-repeat center center scroll;
+    background: url(/img/beaconhill.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
